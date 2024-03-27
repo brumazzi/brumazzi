@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Daniel B. Brumazzi</h3>
-<h3 align="center">### I'm Backend and Game developer</h3>
+<h3 align="center">Hi, I'm Daniel B. Brumazzi</h3>
+<h3 align="center">I'm Backend and Game developer</h3>
 
 <div align="center">
   <div>
@@ -10,7 +9,7 @@
   </div>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,js,nodejs,css,sass,rails,django,postgres,discord,linux,bsd,blender?theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,js,nodejs,css,sass,rails,django,postgres,discord,linux,bsd,blender&theme=dark" />
   </a>
 
   <a href="https://www.linkedin.com/in/daniel-brumazzi-2153707b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
