@@ -9,7 +9,7 @@
   </div>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,js,nodejs,css,sass,rails,django,postgres,discord,linux,bsd,blender&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,js,nodejs,ts,css,html,sass,rails,django,vue,bootstrap,postgres,pug,electron,discord,linux,vim,bsd,blender&theme=dark" />
   </a>
 
   <a href="https://www.linkedin.com/in/daniel-brumazzi-2153707b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
