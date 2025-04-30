@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel B. Brumazzi</h3>
-<h3 align="center">I'm Backend and Game developer</h3>
+<h3 align="center">I am a C/C++, Python, and Ruby programmer with experience in desktop, web, and game development.</h3>
 
 <section style="width: 100%;">
   <div align="center">
